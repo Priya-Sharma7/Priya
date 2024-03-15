@@ -1,0 +1,438 @@
+.logo{
+    height: 80px;
+    width: 80px;
+}
+
+.banner-section-bg-container {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png);
+    height: 100vh;
+    background-size: cover;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+}   
+
+.banner-paragraph {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.custom {
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+.custom-button {
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Why */
+
+
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.wcu-section {
+    background-color: #f9fbfe;
+}
+.pb-5 {
+    padding-bottom: 3rem !important;
+}
+.pt-5 {
+    padding-top: 3rem !important;
+}
+.wcu-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+
+.wcu-paragraph {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+
+.wcu-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+
+.wcu-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+.mt-3 {
+    margin-top: 1rem !important;
+}
+
+.wcu-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.p-3 {
+    padding: 1rem !important;
+}
+
+.mb-3 {
+    margin-bottom: 1rem !important;
+}
+
+
+
+
+
+
+
+
+
+
+/* Explore */
+
+
+.menu-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+
+
+.menu-card {
+    border-radius: 20px;
+}
+.p-3 {
+    padding: 1rem !important;
+}
+.mb-3 {
+    margin-bottom: 1rem !important;
+}
+.shadow {
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+
+.menu-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.row-1 {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.menu-item {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.menu-image {
+    border-radius: 16px;
+}
+
+.w-100 {
+    width: 100% !important;
+}
+
+
+
+
+
+
+
+
+/* Healthy */
+
+
+.imgee{
+    height: 40vh;
+    width: 40vw;
+    
+}
+.backk{
+    text-align: center;
+
+    background-color: rgb(252, 253, 254);
+    height: 60vh;
+    width: 100%;
+    padding: 20px;
+
+}
+.but{
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    
+       
+  
+}
+.pra{
+    color: gray;
+}
+.Heal{
+    height: 80vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+
+
+
+/* Delivery */
+
+
+
+
+.butt{
+    background-color: rgb(213, 162, 66);
+    color: #ffff;
+    border-radius: 18px;
+    border-width: 0px;
+    height: 40px;
+    width: 120px;
+   
+
+}
+.colo{
+    color: gray;
+}
+.mar{
+    margin-top: 40px;
+}
+
+
+.immg{
+    
+    height: 35vh;
+    width: 30vw;
+   
+}
+h1{
+    text-align: start;
+}
+.pade{
+    padding-left: 150px;
+}
+.padd{
+    padding-left: 80px;
+}
+
+.icon{
+    height: 70px;
+    width: 100px;
+    margin: 15px;
+    padding-left: 35px;
+}
+
+.Deli{
+    height: 90vh;
+    width: 100vw;
+}
+
+
+
+
+
+/* Thank */
+
+.deep{
+    background-image: radial-gradient(#fff8db, #b3993d);
+    height: 85%;
+    width: 100%;
+    
+}
+.marg{
+    margin-left: 20px;
+}
+
+.imgii{
+    height: 230px;
+    width: 200px;
+}
+
+.bottu{
+    color: #fff;
+    background-image: linear-gradient(#d0b200, #a58d00) ;
+    width: 130px;
+    height: 45px;
+    border-radius: 8px;
+    border-width: 0px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+.mgin1{
+   
+    margin-top: 80px;
+ }
+
+ .Than{
+    height: 70vh;
+    width: 100vw;
+ }
+
+
+
+
+/* Follow */
+
+.center-1{
+    height: 50vh;
+    width: 100%;
+}
+
+
+
+h1{
+    text-align: center;
+}
+
+.imgg{
+    height: 25px;
+    width: 25px;
+}
+.twitter-circle{
+    border-radius: 100%;
+    background-color: #faf7e8ed;
+    height: 100px;
+    width: 100px;
+    margin: 20px; 
+}
+i{
+    display: flex;
+    font-size: 50px;
+    margin-top: 25px;
+    justify-content: center;
+  
+}
+
+.bi-twitter{
+    align-items: center;
+    color: #d0b200 ;
+    display: flex;
+    align-items: center;
+}
+
+.instagram-circle{
+    border-radius: 100%;
+    background-color: #faf7e8ed;
+    height: 100px;
+    width: 100px; 
+    margin: 20px;
+    
+}
+.bi-instagram{
+    color: #d0b200 ;
+    display: flex;
+    align-items: center;
+}
+.facebook-circle{
+    border-radius: 100%;
+    background-color: #faf7e8ed;
+    height: 100px;
+    width: 100px; 
+    margin: 20px;
+    
+}
+.bi-facebook{
+    color: #d0b200;
+    display: flex;
+    align-items: center;
+}
+
+
+.content-1{
+    height: 50vh;
+    width: 100%;
+    background-color: #0d2436;
+    
+}
+
+
+
+.follow-mail{
+     color: #fff;
+     font-family: "Roboto";
+     font-size: 16px;
+     font-weight: bold;
+     margin-top: 20px;
+}
+.follow-address{
+    color: #fff;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+
